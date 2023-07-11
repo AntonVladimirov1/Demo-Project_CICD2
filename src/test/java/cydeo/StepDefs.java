@@ -15,6 +15,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 import java.util.concurrent.TimeUnit;
 
+                        // Grebanyj rot
 
 public class StepDefs {
 
